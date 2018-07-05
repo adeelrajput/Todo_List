@@ -1,0 +1,29 @@
+#todo{
+    width: 50%;
+    margin: auto
+}
+h1{
+    text-align: center;
+}
+
+#btn{
+    margin: 10px 0;
+}
+
+li{
+    display: block;
+    font-size: 20px;
+    padding: 10px;
+}
+
+li:nth-child(Odd){
+    background: #f1ebeb 
+}
+
+li:nth-child(even){
+    background: #bdb7b7  
+}
+
+li input{
+    margin-right: 10px
+}
